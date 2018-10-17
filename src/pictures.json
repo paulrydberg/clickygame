@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "character": "Cartman",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark/images/9/9e/Eric_cartman.png/revision/20150922153610",
+    "timesClicked": 0
+  },
+  {
+    "id": 2,
+    "character": "Kyle",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark/images/7/70/165px-KyleBroflovski.png/revision/latest?cb=20170419032821",
+    "timesClicked": 0
+  },
+  {
+    "id": 3,
+    "character": "Stan",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark-fr/images/a/a7/StanMarsh.png/revision/latest?cb=20151011165450&path-prefix=fr",
+    "timesClicked": 0
+  },
+  {
+    "id": 4,
+    "character": "Kenny",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark/images/6/6f/KennyMcCormick.png/revision/20150211131901",
+    "timesClicked": 0
+  },
+  {
+    "id": 5,
+    "character": "Butters",
+    "pictureURL": "https://upload.wikimedia.org/wikipedia/en/0/06/ButtersStotch.png",
+    "timesClicked": 0
+  },
+  {
+    "id": 6,
+    "character": "Wendy",
+    "pictureURL": "https://i.pinimg.com/originals/f1/4a/66/f14a66e641f2a73409f54b7da3a8fb36.png",
+    "timesClicked": 0
+  },
+  {
+    "id": 7,
+    "character": "Nathan",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark/images/c/cb/Nathan.png/revision/latest?cb=20160408235818",
+    "timesClicked": 0
+  },
+  {
+    "id": 8,
+    "character": "Token",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark/images/d/d3/Token_Black2.png/revision/20160831183648",
+    "timesClicked": 0
+  },
+  {
+    "id": 9,
+    "character": "Jimmy",
+    "pictureURL": "http://vignette4.wikia.nocookie.net/southpark/images/2/24/Jimmy_h-h-here.png/revision/latest?cb=20140821232918",
+    "timesClicked": 0
+  },
+  {
+    "id": 10,
+    "character": "Randy",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark/images/f/f2/Randy_transparent_cockmagic.png/revision/latest?cb=20160402120457",
+    "timesClicked": 0
+  },
+  {
+    "id": 11,
+    "character": "Mr. Mackey",
+    "pictureURL": "https://vignette.wikia.nocookie.net/southpark/images/5/58/Mr_Mackey_New.png/revision/latest?cb=20160402100931",
+    "timesClicked": 0
+  },
+  {
+    "id": 12,
+    "character": "Craig",
+    "pictureURL": "https://upload.wikimedia.org/wikipedia/uk/e/e3/%D0%9A%D1%80%D0%B5%D0%B9%D0%B3_%D0%A2%D0%B0%D0%BA%D0%B5%D1%80.png",
+    "timesClicked": 0
+  }
+]

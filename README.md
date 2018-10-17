@@ -1,1 +1,1 @@
-# clickygame
+# The Clickedy Clicked Game

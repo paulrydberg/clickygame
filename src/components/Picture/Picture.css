@@ -1,0 +1,17 @@
+.pictures {
+  position: relative;
+  background: rgba(255, 255, 255, 0);
+  height: 250px;
+  margin: 7px;
+  width: 20%;
+}
+
+.pictures > .picture-holder {
+  background: #00ff15;
+  height: 80%;
+  overflow: hidden;
+  text-align: center;
+}
+.pictures > .picture-holder > img {
+  width: 50%;
+}
